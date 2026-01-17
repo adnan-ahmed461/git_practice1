@@ -1,1 +1,2 @@
 Hi this is first fie in git 
+ and this one is updated i
